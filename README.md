@@ -54,7 +54,7 @@ npm i cmd-shim@3.0.2
 npx @vue/cli@3.0.0-beta.9 create client
 ```
 
-If you meet the issue with TypeError: api.injectImports is not a function, then you need to upgrade the ve cli, then create the project:
+If you meet the issue with TypeError: api.injectImports is not a function, then you need to upgrade the vue cli, then create the project:
 ```
 npm update -g @vue/cli
 
