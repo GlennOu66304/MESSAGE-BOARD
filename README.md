@@ -10,8 +10,7 @@ Command + Control + Space shortcut
  [npm run dev reports an error: missing script:dev](https://www.programmersought.com/article/39854586248/) 
 
        
-
-##video resource:  
+## video resource:  
 [Newby Tuesdays - Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap](https://www.youtube.com/watch?v=2xIoWm08SBM&list=PLul9aZOSt5CPetBw-Nl_6PzdgG-bBYL75&index=4&ab_channel=CodingGarden)  
 Source code1:[message-board-client](https://github.com/CodingGarden/message-board-client)    
 source code2:[message-board-server](https://github.com/CodingGarden/message-board-server) 
@@ -63,3 +62,8 @@ vue create client
 Vue CLI v3.12.1  
 [Upgrading](https://cli.vuejs.org/guide/installation.html)  
 [TypeError: api.injectImports is not a function](https://stackoverflow.com/questions/50703003/updating-vue-cli-global)  
+
+## References:  
+[Newby Tuesdays - Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap](https://www.youtube.com/watch?v=2xIoWm08SBM&list=PLul9aZOSt5CPetBw-Nl_6PzdgG-bBYL75&index=4&ab_channel=CodingGarden)  
+Source code1:[message-board-client](https://github.com/CodingGarden/message-board-client)    
+source code2:[message-board-server](https://github.com/CodingGarden/message-board-server) 
