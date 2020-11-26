@@ -9,13 +9,7 @@ Command + Control + Space shortcut
  Please make sure that your current folder is at the server folder, try to use the"cd /Users/zt/MESSAGE-BOARD/server' to get back to the server folder, then install the nodemon and run npm run dev.  
  [npm run dev reports an error: missing script:dev](https://www.programmersought.com/article/39854586248/) 
 
-       
-## video resource:  
-[Newby Tuesdays - Build a full stack message board with Node/Express/MongoDB/Vue.js/Bootstrap](https://www.youtube.com/watch?v=2xIoWm08SBM&list=PLul9aZOSt5CPetBw-Nl_6PzdgG-bBYL75&index=4&ab_channel=CodingGarden)  
-Source code1:[message-board-client](https://github.com/CodingGarden/message-board-client)    
-source code2:[message-board-server](https://github.com/CodingGarden/message-board-server) 
-
-
+    
 ## Boot strap and bootswatch:
 
 1.You need to open the bootstap.min.css into the new file in the browser, then copy the address;  
