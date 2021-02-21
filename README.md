@@ -30,13 +30,13 @@ Resource List:
 [Cyborg](https://bootswatch.com/cyborg/) 
 
 ### vue cli conflic solving:
-Go back to the @vue/cli@3.0.0-beta.9 to bnegin our project building:  
-1.install @vue/cli@3.0.0-beta.9 package: npm i @vue/cli@3.0.0-beta.9
-[npm i @vue/cli@3.0.0-beta.9](https://www.npmjs.com/package/@vue/cli/v/3.0.0-beta.9)  
+Go back to the @vue/cli@3.0.0-beta.9 to bnegin our project building:      
+1.install @vue/cli@3.0.0-beta.9 package: npm i @vue/cli@3.0.0-beta.9    
+[npm i @vue/cli@3.0.0-beta.9](https://www.npmjs.com/package/@vue/cli/v/3.0.0-beta.9)    
 2.install cmd-shim: npm i cmd-shim@3.0.2  
-[npm i cmd-shim@3.0.2](https://www.npmjs.com/package/cmd-shim/v/3.0.2)
+[npm i cmd-shim@3.0.2](https://www.npmjs.com/package/cmd-shim/v/3.0.2)    
 [Error: Cannot find module 'cmd-shim'](https://stackoverflow.com/questions/51050688/cannot-find-module-missing-modules-557)  
-[Vue cli Getting Started](https://cli.vuejs.org/)  
+[Vue cli Getting Started](https://cli.vuejs.org/)    
 3.npx @vue/cli@3.0.0-beta.9 create client
 
 ```
